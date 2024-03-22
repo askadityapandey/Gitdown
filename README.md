@@ -10,9 +10,8 @@ GitDown is an application for generating Markdown content for your GITHUB REPO.
 - [License](#license)
 
 ## Introduction
-Welcome to GitDown! This application ![Annotation 2024-03-22 194014](https://github.com/askadityapandey/Gitdown/assets/144938685/0638a71c-836c-46a0-9536-34639e6a2ee0)
-allows you to easily generate Markdown content using predefined and custom fields. Whether you're writing documentation, README files, or any other Markdown-based content, GitDown simplifies the process.
-
+Welcome to GitDown! This application allows you to easily generate Markdown content using predefined and custom fields. Whether you're writing documentation, README files, or any other Markdown-based content, GitDown simplifies the process.
+![Annotation 2024-03-22 194014](https://github.com/askadityapandey/Gitdown/assets/144938685/0638a71c-836c-46a0-9536-34639e6a2ee0)
 ## Installation
 To run GitDown locally, follow these steps:
 1. Clone this repository to your local machine.
